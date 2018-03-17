@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\KinectModelControllerV2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\KinectModelPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Cannon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KinectModelControllerV2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Football.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\Standard Assets\Windows\Kinect\JointType.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\KinectView\Scripts\BodySourceManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\Standard Assets\Windows\Kinect\Body.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GoalController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

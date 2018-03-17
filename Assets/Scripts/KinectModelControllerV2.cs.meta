@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: e1555527e18d32b4ebb3083896d5f7a8
+timeCreated: 1496071525
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bsm: {instanceID: 0}
+  - Hip_Center: {instanceID: 0}
+  - Spine: {instanceID: 0}
+  - Shoulder_Center: {instanceID: 0}
+  - Head: {instanceID: 0}
+  - Collar_Left: {instanceID: 0}
+  - Shoulder_Left: {instanceID: 0}
+  - Elbow_Left: {instanceID: 0}
+  - Wrist_Left: {instanceID: 0}
+  - Hand_Left: {instanceID: 0}
+  - Fingers_Left: {instanceID: 0}
+  - Collar_Right: {instanceID: 0}
+  - Shoulder_Right: {instanceID: 0}
+  - Elbow_Right: {instanceID: 0}
+  - Wrist_Right: {instanceID: 0}
+  - Hand_Right: {instanceID: 0}
+  - Fingers_Right: {instanceID: 0}
+  - Hip_Override: {instanceID: 0}
+  - Hip_Left: {instanceID: 0}
+  - Knee_Left: {instanceID: 0}
+  - Ankle_Left: {instanceID: 0}
+  - Foot_Left: {instanceID: 0}
+  - Hip_Right: {instanceID: 0}
+  - Knee_Right: {instanceID: 0}
+  - Ankle_Right: {instanceID: 0}
+  - Foot_Right: {instanceID: 0}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

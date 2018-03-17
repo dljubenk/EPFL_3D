@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{88EEF5F7-9594-A4FF-F55B-3C395BE14C08}") = "KinectTP", "Assembly-CSharp-vs.csproj", "{FB58DBF8-C1D1-A1C1-383A-CB4D68D4FD3D}"
+EndProject
+Project("{88EEF5F7-9594-A4FF-F55B-3C395BE14C08}") = "KinectTP", "Assembly-CSharp-Editor-vs.csproj", "{70C5D44A-CAAF-AEC9-27D9-68E8132D40A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB58DBF8-C1D1-A1C1-383A-CB4D68D4FD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB58DBF8-C1D1-A1C1-383A-CB4D68D4FD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB58DBF8-C1D1-A1C1-383A-CB4D68D4FD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB58DBF8-C1D1-A1C1-383A-CB4D68D4FD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C5D44A-CAAF-AEC9-27D9-68E8132D40A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C5D44A-CAAF-AEC9-27D9-68E8132D40A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C5D44A-CAAF-AEC9-27D9-68E8132D40A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C5D44A-CAAF-AEC9-27D9-68E8132D40A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
